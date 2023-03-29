@@ -1,0 +1,14 @@
+Results for Figures/CAR_Cetuximab.png: 
+UNFIT SIMULATION 
+     SSE = 0.380 
+     Rsq = -0.270 
+     KLd = 0.058 
+ 
+Results for Figures/CAR_Cetuximab.png: 
+FITTED SIMULATION 
+     SSE = 0.380 
+     Rsq = -0.270 
+     KLd = 0.058 
+ 
+Fit = [1. 1. 1. 1. 1.]
+Error = [1.6774144  4.13379003 5.49582652 1.68305697 6.81998792]

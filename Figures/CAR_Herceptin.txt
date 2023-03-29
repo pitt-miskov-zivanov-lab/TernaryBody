@@ -1,0 +1,14 @@
+Results for Figures/CAR_Herceptin.png: 
+UNFIT SIMULATION 
+     SSE = 0.077 
+     Rsq = -0.057 
+     KLd = 0.152 
+ 
+Results for Figures/CAR_Herceptin.png: 
+FITTED SIMULATION 
+     SSE = 0.022 
+     Rsq = -0.046 
+     KLd = 0.144 
+ 
+Fit = [0.84232005 0.62788981 2.67018731 0.11630901 1.44312409]
+Error = [ 1.12669687  8.86617742 29.91202759  8.78885187  0.63552215]

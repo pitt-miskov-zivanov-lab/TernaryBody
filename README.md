@@ -2,7 +2,9 @@
 
 ## Modeling T cell - Antibody - Tumor Cell binding
 
-The purpose of this model is to investigate the formation of T cell bound antibody to Tumor cell antigen. This type of problem is commonly refered to as a Ternary Body model or a Scaffolding Protein model. The purpose of this model is to investigate the kintematics and equilibriu state of a ternary body model in the specific context of T cell - Antibody - Tumor cell targetting.
+The purpose of this model is to investigate the formation of T cell bound antibody to Tumor cell antigen. This type of problem is commonly refered to as a Ternary Body model or a Scaffolding Protein model. With this mondel, we investigate the kintematics and equilibrium state of a ternary body model in the specific context of T cell - Antibody - Tumor cell targetting.
+
+![Figure of Kinetic Reaction governing the binding and unbinding events involved in Ternary Body Formation.](Figures/KineticReactions.png "KineticReactions")
 
 ## Citation
 

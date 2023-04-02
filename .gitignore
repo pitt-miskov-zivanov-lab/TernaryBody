@@ -127,7 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# Just for now
-22.09.09_CHECKING_ECCF_copy.ipynb
-22.09.09_CHECKING_ECCF_copy2.ipynb
